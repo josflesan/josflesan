@@ -32,7 +32,6 @@ I'm Josué, a second year computer science student at the University of Edinburg
 </a>
 
 <br>
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
