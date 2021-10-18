@@ -15,8 +15,6 @@ I'm Josué, a second year computer science student at the University of Edinburg
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=mazeJS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
 <a href="https://github.com/josflesan/La-Cabana-Online-Menu">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=La-Cabana-Online-Menu&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -25,8 +23,6 @@ I'm Josué, a second year computer science student at the University of Edinburg
 
 <a href="https://github.com/josflesan/Connect-Four-MiniMax">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=Connect-Four-MiniMax&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
- 
-<br>
 
 <a href="https://github.com/josflesan/PySnake">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=PySnake&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
