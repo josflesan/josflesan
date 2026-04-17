@@ -49,13 +49,13 @@ I'm a final-year MSc Computer Science student at **ETH Zurich** with professiona
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josflesan&hide_progress=true&hide=css,pug&langs_count=10&theme=dark"
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josflesan&hide_progress=true&hide=css,pug&langs_count=10"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josflesan&hide_progress=true&hide=css,pug&langs_count=10" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josflesan&hide_progress=true&hide=css,pug&langs_count=10&theme=dark" alt="Top Langs" />
   </picture>
   <picture>
     <source
