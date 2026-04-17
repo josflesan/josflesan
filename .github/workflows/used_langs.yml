@@ -18,7 +18,6 @@ jobs:
         with:
           filename: metrics.plugin.languages.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_branch: output
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
