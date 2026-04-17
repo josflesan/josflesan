@@ -1,91 +1,67 @@
-<a href="#"><img src="./assets/banner.png" height="auto" width="1000" style="border-radius:50%"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/josue-fleitas/">
+    <img src="./assets/banner.png" width="800"/>
+  </a>
+</div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/josué-fleitas/)
+<br />
 
-Hello there 👋
+# Hello there 👋, I'm Josué
 
-I'm Josué, a final year computer science and artificial intelligence student at the University of Edinburgh and part-time freelance web developer. When I'm not coding for school, work or for a client, I build anything from games, to visualizers and mobile apps that you can check out down below :)
+I'm a final-year MSc Computer Science student at **ETH Zurich** with professional experience in Software Engineering, Machine Learning Engineering, and Data Science. I am mostly based in London, UK.
 
-## 📌 Pinned Repositories
+### 🔭 About Me
+- 💼 **Experience:** Previously worked at Snap Inc., Amazon, and Speechmatics.
+- 🎓 **Education:** MSc Computer Science @ ETH Zurich and BSc CS + AI @ The University of Edinburgh. My academic focus is in Applied Artificial Intelligence.
+- 🔬 **Research:** Previously speech representation learning and LLM adaptation for multimodal learning. Recently, mechanistic interpretability
+- 🌱 **Interests:** Hip Hop, Poetry, Video Games, Programming
+- ⚡ **Fun fact:** Salsa dancer in the making
 
-<br>
+<br />
 
-<a href="https://github.com/josflesan/mazeJS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=mazeJS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+## 💼 Skills & Technologies
 
-<a href="https://github.com/josflesan/La-Cabana-Online-Menu">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=La-Cabana-Online-Menu&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,react,dart,kotlin&perline=9" />
+</div>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,r,aws,gcp,mongodb,nodejs,graphql,css,git,docker,kubernetes,figma&perline=13" />
+</div>
 
-<br>
+<br />
 
-<a href="https://github.com/josflesan/AandEDataScience">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=AandEDataScience&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+## 🏆 Featured Projects & Research
 
-<a href="https://github.com/josflesan/InBOX-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=InBOX-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+| Project | Description |
+| :--- | :--- |
+| [**Dynamic Architectures for Speech Representation Learning**](https://github.com/josflesan/speech-rep-learning) | BSc thesis project exploring dynamic architectures for the self-supervised autoregressive learning of speech features |
+| [**Decompiling Transformers**](https://github.com/josflesan/decompiling_transformers) (WIP) | MSc semester project reimplementing and extending [Huang et al. (2026)](https://arxiv.org/abs/2602.08857)'s method to map minimal transformers onto interpretable RASP-like programs |
+| [**Efficient Clifford Neural Layers**](https://github.com/josflesan/optimized-clifford-nn) | C++ implementation of Clifford Algebra-based neural layer inference. Focus on performance (loop unrolling, SIMD, cache-efficiency...) |
+| [**Pathtracing from Scratch**](https://github.com/josflesan/Pathtracing-Computer-Graphics-2024) | Physically-based pathtracer in C++ supporting textures, AA, soft shadows, BRDF materials and hierarchical acceleration structures |
+| [**InBOX**](https://github.com/josflesan/InBOX-monorepo) | Software kit for smart electronic parcel box robot including ROS2 drivers, a Flutter-based mobile application, a full-stack website and a local API |
 
-<br>
-
-<a href="https://github.com/josflesan/SparkMyCV">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=SparkMyCV&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
-
-<a href="https://github.com/josflesan/PySnake">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=josflesan&repo=PySnake&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
+<br />
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/josflesan/josflesan/output/metrics.plugin.languages.recent.svg" alt="Recently Used Languages" />
+</div>
 
-<a href="https://github.com/josflesan">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josflesan&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<br />
 
-<a href="https://github.com/josflesan">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=josflesan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Josué's GitHub Stats" />
-</a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josflesan/josflesan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josflesan/josflesan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josflesan/josflesan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<br>
-<br>
+<br />
 
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=blender&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
- 
-</details>
+---
+<div align="center">
+  <b>Feel free to reach out on <a href="https://www.linkedin.com/in/josue-fleitas/">LinkedIn</a></b> :)
+</div>
