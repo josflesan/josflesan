@@ -46,7 +46,18 @@ I'm a final-year MSc Computer Science student at **ETH Zurich** with professiona
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/josflesan/josflesan/output/metrics.plugin.languages.most-used.svg" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josflesan&hide_progress=true&hide=css,pug&langs_count=10" alt="Top Langs" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=josflesan&show_icons=true&theme=dark&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=josflesan&show_icons=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=josflesan&show_icons=true" />
+  </picture>
 </div>
 
 <br />
