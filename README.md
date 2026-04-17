@@ -46,7 +46,7 @@ I'm a final-year MSc Computer Science student at **ETH Zurich** with professiona
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/josflesan/josflesan/output/metrics.plugin.languages.recent.svg" alt="Recently Used Languages" />
+  <img src="https://raw.githubusercontent.com/josflesan/josflesan/output/metrics.plugin.languages.most-used.svg" alt="Most Used Languages" />
 </div>
 
 <br />
